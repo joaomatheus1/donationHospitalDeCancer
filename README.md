@@ -1,5 +1,6 @@
 # projeto
-Projeto sobre doações
+O projeto vai ser direcionado a um site de doações de utensilios para, hospitais,
+crianças carentes, etc.
 
 ## Tarefas
 
